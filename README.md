@@ -1,7 +1,7 @@
 ![anomaly_detection_](https://user-images.githubusercontent.com/73858914/149597304-433afb05-5fca-4285-a158-00ff430364ff.png)
 
 **OTUS Machine Learning Professional**
-### **Homework 3 -- WORK IN PROGRESS** 
+### **Homework 3** 
 ### Anomaly detection
 
 **Goals:**  
